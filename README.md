@@ -5,7 +5,7 @@ Author: [Joe Garcia](https://www.linkedin.com/in/joe-g-84633239/)
 <img width="511" alt="Movie_theater" src="https://user-images.githubusercontent.com/100239801/157833934-7f667ece-1a97-46b9-b810-0674c172f019.png">
 
 
-This repository contains the Microsoft Exploratory Film power point which features a question how can we help microsoft make a movie? In addition it provides data analysis on film with projections gathered from the domestic gross and production. It also features some data about the genres in each film.
+This repository contains the Microsoft Exploratory Film power point which features the question: how can we help microsoft make a movie? In addition it provides data analysis on film with projections gathered from the domestic gross and production. It also features some data about the genres in each film.
 
 <h2> Business Problem </h2>
 

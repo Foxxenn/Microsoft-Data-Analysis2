@@ -2,6 +2,10 @@
 
 Author: [Joe Garcia](https://www.linkedin.com/in/joe-g-84633239/) 
 
+All files are found [here](https://github.com/Foxxenn/Microsoft-Exploratory-Film-Insights-)
+
+
+
 <img width="511" alt="Movie_theater" src="https://user-images.githubusercontent.com/100239801/157833934-7f667ece-1a97-46b9-b810-0674c172f019.png">
 
 

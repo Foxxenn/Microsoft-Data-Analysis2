@@ -1,6 +1,6 @@
 <h1> Microsoft Exploratory Film Insights </h1>
 
-<h3> Author: [Joe Garcia](https://www.linkedin.com/in/joe-g-84633239/) </h3>
+Author: [Joe Garcia](https://www.linkedin.com/in/joe-g-84633239/) 
 
 <img width="511" alt="Movie_theater" src="https://user-images.githubusercontent.com/100239801/157833934-7f667ece-1a97-46b9-b810-0674c172f019.png">
 

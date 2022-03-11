@@ -1,4 +1,4 @@
-Microsoft Exploratory Film Analysis
+Microsoft Exploratory Film Insights
 
 Author: Joe Garcia
 

@@ -55,5 +55,5 @@ Movies that have a lower or medium budget have a  higher chance to have more ROI
 
 <h2> Next Steps </h2>
 
-We are getting new data which would be helpful in the future.
+Obtain getting new data about movie production which would be helpful in the future.
 

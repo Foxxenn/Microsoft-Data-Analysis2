@@ -28,8 +28,24 @@ Box Office Mojo
 
 We will take a glance at how much money a movie has made domestically, at the production value, and finally at the rating.
 
+Result 1 - Movie Genres
+
+The graph shows us what is the key genre element per film, if they have some sort of element, then its marked down. Here we have discovered that most movies have an element of Documentary and Drama. We have discovered that Documentary, Drama, and Comedy are the top elements that compose all the movies.
+
+
 <img width="1017" alt="Screen Shot 2022-03-11 at 2 22 23 AM" src="https://user-images.githubusercontent.com/100239801/157833849-830de1d2-d9dc-445e-aece-88ae5ff66e36.png">
 
+Result 2 - Return on Investment
+
+Getting the ROI (Return On Investment) compared to the budget
+
+<img width="924" alt="Screen Shot 2022-03-11 at 2 36 03 AM" src="https://user-images.githubusercontent.com/100239801/157902027-a433f544-af40-45db-b607-5bd4aeb0e956.png">
+
+Result 3 - Ratings
+
+I managed to get the ROI and place them on top of the bars. Also I found how to put random text within the graph as well as learned about how to put numbers on top of the bars.
+
+<img width="1018" alt="Screen Shot 2022-03-11 at 2 35 26 AM" src="https://user-images.githubusercontent.com/100239801/157902072-784c96d2-f484-4b05-8a23-0ae68da19b93.png">
 
 Results
 

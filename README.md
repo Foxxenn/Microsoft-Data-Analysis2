@@ -30,11 +30,10 @@ We will take a glance at how much money a movie has made domestically, at the pr
 
 <img width="1017" alt="Screen Shot 2022-03-11 at 2 22 23 AM" src="https://user-images.githubusercontent.com/100239801/157833849-830de1d2-d9dc-445e-aece-88ae5ff66e36.png">
 
-Methods
-
-This project takes data such as how much of a budget, how much of the overall 
-
 
 Results
 
+The movie should have a few elements of Drama, Comedy, or Documentary.
+Movies such as Documentary, News, Biography are generally rated highly as opposed to Horror which is more lucrative.
+Movies that have a lower or medium budget have a  higher chance to have more ROI.
 

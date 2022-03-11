@@ -4,6 +4,15 @@ Author: [Joe Garcia](https://www.linkedin.com/in/joe-g-84633239/)
 
 All files are found [here](https://github.com/Foxxenn/Microsoft-Exploratory-Film-Insights-)
 
+[images](https://github.com/Foxxenn/Microsoft-Exploratory-Film-Insights-/tree/master/images) - Files used in powerpoint and README.md
+[zippedData](https://github.com/Foxxenn/Microsoft-Exploratory-Film-Insights-/tree/master/zippedData) - This folder contains all the Zipped data from RottenTomatoes, IMDB, Box Office Mojo
+.gitignore - A file that has all the large files as well as Jupyter Notebooks that are note used
+[Joe_Garcia.ipynb](https://github.com/Foxxenn/Microsoft-Exploratory-Film-Insights-/blob/master/Joe_Garcia.ipynb) - My main Jupyter Notebook where I gathered all my analysis
+LICENSE.md - A Flatiron School license
+[Microsoft_Exploratory_Film_Insights.pptx](https://github.com/Foxxenn/Microsoft-Exploratory-Film-Insights-/blob/master/Microsoft_Exploratory_Film_Insights.pptx) - The main powerpoint I used.
+[Phase_1_Project_Proposal.pdf](https://github.com/Foxxenn/Microsoft-Exploratory-Film-Insights-/blob/master/Phase_1_Project_Proposal.pdf) - A pdf of 2 questions.
+README.md - You are reading the Readme right now.
+[Presentation.pdf](https://github.com/Foxxenn/Microsoft-Exploratory-Film-Insights-/blob/master/presentation.pdf) - The powerpoint in pdf format.
 
 
 <img width="511" alt="Movie_theater" src="https://user-images.githubusercontent.com/100239801/157833934-7f667ece-1a97-46b9-b810-0674c172f019.png">

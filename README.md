@@ -4,6 +4,8 @@ Author: [Joe Garcia](https://www.linkedin.com/in/joe-g-84633239/)
 
 All files are found [here](https://github.com/Foxxenn/Microsoft-Exploratory-Film-Insights-)
 
+======================================================================================================================================
+
 [images](https://github.com/Foxxenn/Microsoft-Exploratory-Film-Insights-/tree/master/images) - Files used in powerpoint and README.md
 
 [zippedData](https://github.com/Foxxenn/Microsoft-Exploratory-Film-Insights-/tree/master/zippedData) - This folder contains all the Zipped data from RottenTomatoes, IMDB, Box Office Mojo
